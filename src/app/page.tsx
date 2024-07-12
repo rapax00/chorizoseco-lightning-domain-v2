@@ -25,7 +25,7 @@ export default function Home() {
               </div>
             </h1>
             <div className="text-lg" style={{ marginTop: '-40px' }}>
-              Tu alias y mail de Bitcoin
+              Tu alias y mail de Bitcoin bien campero.
             </div>
           </div>
         </main>
